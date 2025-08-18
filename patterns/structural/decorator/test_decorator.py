@@ -1,4 +1,4 @@
-from patterns.decorator import BaseComponent, DecoratorA, DecoratorB
+from patterns.structural.decorator import BaseComponent, DecoratorA, DecoratorB
 
 
 def test_decorator():

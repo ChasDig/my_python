@@ -1,7 +1,7 @@
 import itertools
 from typing import Generator
 
-from patterns.adapter import JSONReader, CSVReader, Printer
+from patterns.structural.adapter import JSONReader, CSVReader, Printer
 
 
 class ReadFacade:
