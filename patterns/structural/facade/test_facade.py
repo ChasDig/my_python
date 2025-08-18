@@ -1,7 +1,7 @@
 import json
 from typing import List
 
-from patterns.adapter import CSV_DATA, JSON_DATA
+from patterns.structural.adapter import CSV_DATA, JSON_DATA
 from .facade import ReadFacade
 
 

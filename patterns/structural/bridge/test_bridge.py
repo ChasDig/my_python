@@ -1,4 +1,4 @@
-from patterns.bridge import PlayStation, Computer, GamePad, KeyboardAndMouse
+from patterns.structural.bridge import PlayStation, Computer, GamePad, KeyboardAndMouse
 
 
 def test_bridge():

@@ -1,4 +1,4 @@
-from patterns.iterator import WordsCollectionIterable
+from patterns.behavioral.iterator import WordsCollectionIterable
 
 
 def test_iterator():

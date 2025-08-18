@@ -1,6 +1,6 @@
 import json
 
-from patterns.adapter import CSVReader, Printer, JSONReader, JSON_DATA, CSV_DATA
+from patterns.structural.adapter import CSVReader, Printer, JSONReader, JSON_DATA, CSV_DATA
 
 
 def test_json_printer():
